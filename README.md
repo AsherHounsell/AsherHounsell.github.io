@@ -18,3 +18,17 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ### Screenshot of website homepage:
 ![Activity 2 - Website Homepage](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/265fac5d-70b9-414b-a2e2-67d8eaaa9022)
+
+# Activity 3
+
+### Screenshot of repo:
+![Activity 3 - Repo](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/c379ba55-02e1-413a-bc63-d24fe51effa1)
+
+### Screenshot of my commits:
+![Activity 3 - Theme Change Commits](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/50398dcb-0658-446a-804f-02394bdbe1cd)
+
+### Screenshot of website homepage:
+![Activity 3 - Theme Change](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/2c099d8f-7ca6-4706-96a6-9c071a8e7b36)
+
+### Screenshot of website homepage navbar:
+![Activity 3 - Side Nav Theme Change](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/9af0f292-0cf0-4156-b5f2-67bc8cedd9fa)
