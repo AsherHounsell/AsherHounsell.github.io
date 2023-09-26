@@ -36,13 +36,14 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 # Activity 4
 
 ### Screenshot of repo:
-![Activity 4 - Repo](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/094640ad-f0e2-410c-a0c5-b0116cc84667)
+![Activity 4 - Repo](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/51ebf954-3a29-4cae-81a2-b7068e6de39c)
+
 
 ### Screenshot of my commits:
-![Activity 4 - Commits](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/9ec2b1f5-34ff-481b-b1c6-6db1a74a187a)
+![Activity 4 - Commits](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/d76fface-3b4e-415e-be9c-a62f09baa7d7)
 
-### Screenshot of places travelled homepage:
-![Activity 4 - Places Travelled Section](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/a35249a8-ec36-42a5-b138-657d514e61b2)
 
-### Screenshot of places travelled & navbar:
-![Activity 4 - Places Travelled Section Nav Bar](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/b38a96c3-f368-461f-a809-8b4490c2cfa0)
+### Screenshot of places travelled:
+![Activity 4 - Places Travelled](https://github.com/AsherHounsell/AsherHounsell.github.io/assets/61854862/334c094b-9a9b-43f3-9aac-7500f85487a4)
+
+
